@@ -1,5 +1,3 @@
-# github-bot
-
 # Simulating GitHub Contributions for the Last Year
 
 This project automates the creation of GitHub contributions by generating backdated commits over the past year. The script uses Node.js, Git, and some essential libraries to simulate daily activity.
