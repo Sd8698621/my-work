@@ -35,7 +35,7 @@ npm install simple-git moment
 ```
 
 ### 3. Save the Script
-Create a file named `simulateYearContributions.js` and add the following code:
+Create a file named `contribute.js` and add the following code:
 
 ```javascript
 const fs = require('fs'); // File system module
@@ -75,7 +75,7 @@ simulateContributionsForYear().catch(console.error);
 ### 4. Run the Script
 Execute the script using Node.js:
 ```bash
-node simulateYearContributions.js
+node contribute.js
 ```
 
 ---
