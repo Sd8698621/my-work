@@ -100,7 +100,9 @@ To keep the contributions hidden, push to a private repository.
 
 ## Caution
 - Use responsibly. Artificially inflating contributions may violate GitHub’s terms of service.
-- Avoid creating too many commits in a short period to prevent being flagged by GitHub.
+ - Avoid creating too many commits in a short period to prevent being flagged by GitHub. 
+ - This project is made only for educational purposes. 
+ - We are not responsible for any violations or misuse of this script.
 
 ---
 
